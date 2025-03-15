@@ -1,2 +1,2 @@
-# plasmo3net
+# Plasmo3net
 Malaria detection web app
