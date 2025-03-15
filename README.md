@@ -7,6 +7,6 @@
 [Kolapo Oyebola<sup>1,2</sup>](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 
 
+![plasmo3net](https://github.com/user-attachments/assets/3c2794c8-6724-4fde-894f-845b92018750)
 
-![Uploading image.png…]()
 
