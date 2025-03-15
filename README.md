@@ -2,7 +2,7 @@
 ### Authors
 [Afolabi Owoloye<sup>1,2,3</sup>](https://www.linkedin.com/in/afolabi-owoloye-a1b8a5b5/)
 [Funmilayo Ligali<sup>4</sup>](https://www.linkedin.com/in/funmilayo-ligali-9746a2184/)
-[Adewale Ogunleye<sup>5</sup>](https://www.linkedin.com/in/adewale-ogunleye-09029684/)
+[Ojochenemi Enejoh<sup>5</sup>](https://www.linkedin.com/in/ojochenemi-enejoh-23a79549/)
 [Taiwo Idowu<sup>3</sup>](https://scholar.google.com/citations?hl=en&user=ViS6ndQAAAAJ)
 [Kolapo Oyebola<sup>1,2</sup>](https://www.linkedin.com/in/kolapo-oyebola-phd-67493836/)
 
