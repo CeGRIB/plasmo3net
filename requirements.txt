@@ -1,0 +1,9 @@
+streamlit
+tensorflow==2.16.1
+streamlit-option-menu
+Pillow
+numpy
+matplotlib
+requests
+opencv-python-headless
+
