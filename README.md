@@ -15,9 +15,10 @@
 <sup>2</sup> Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, University of Lagos, Lagos, Nigeria.<br>
 <sup>3</sup> Nigerian Institute of Medical Research, Lagos, Nigeria.<br>
 <sup>4</sup> Department of Biochemistry, Faculty of Basic Medical Science, University of Lagos, Lagos, Nigeria.<br>
-<sup>5</sup> Genetics, Genomics and Bioinformatics Department, National Biotechnology Research and Development Agency, Abuja, Nigeria.<br>
-
-
+<sup>5</sup> Genetics, Genomics and Bioinformatics Department, National Biotechnology Research and Development Agency, Abuja, Nigeria.
+<br>
+<br>
+<br>
 
 ![pipeline](https://github.com/user-attachments/assets/24f9e6f2-c89d-4bb8-8d93-d952c5285e76)
 ### Experimental workflow for developing the convolutional neural network
