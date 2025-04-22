@@ -100,9 +100,9 @@ A deep learning-powered web application for automated detection of *Plasmodium f
 ## 📄 Citation
 If you use this work, please cite:
 ```bibtex
-@article{owoloye2024plasmo3net,
-  title={Plasmo3Net: A Convolutional Neural Network-Based Algorithm for Detecting Malaria Parasites in Thin Blood Smear Images},
+@article{
   authors={Owoloye et al.},
+  title={Plasmo3Net: A Convolutional Neural Network-Based Algorithm for Detecting Malaria Parasites in Thin Blood Smear Images},
   journal={bioRxiv},
   year={2024},
   doi={10.1101/2024.12.12.628235v1}
@@ -118,12 +118,3 @@ Afolabi Owoloye
 CeGRIB - [@cegrib](https://www.linkedin.com/company/cegrib/?viewAsMember=true)
 [LinkedIn](https://www.linkedin.com/company/cegrib/?viewAsMember=true) | [Twitter](https://x.com/CeGRIB_)
 ```
-
-
-@article{owoloye2024plasmo3net,
-  title={Plasmo3Net: High-Accuracy Malaria Detection via Deep Learning},
-  author={Owoloye, Afolabi},
-  journal={bioRxiv},
-  year={2024},
-  doi={10.1101/2024.12.12.628235v1}
-}
