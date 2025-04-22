@@ -27,7 +27,6 @@
 ![pipeline](https://github.com/user-attachments/assets/24f9e6f2-c89d-4bb8-8d93-d952c5285e76)
 ###           Experimental workflow for developing the convolutional neural network
 
-<br>
 # 🦟 Plasmo3Net: Malaria Detection Web App
 
 A deep learning-powered web application for automated detection of *Plasmodium falciparum* in red blood cells (RBCs) using convolutional neural networks (CNNs). Achieves **99.3% accuracy** in classifying infected vs. uninfected cells.
