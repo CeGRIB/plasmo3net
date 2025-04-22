@@ -64,8 +64,8 @@ A deep learning-powered web application for automated detection of *Plasmodium f
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/malaria-detection-app.git
-   cd malaria-detection-app
+   git clone https://github.com/CeGRIB/plasmo3net.git 
+   cd plasmo3net
    ```
 
 2. Install dependencies:
@@ -92,7 +92,7 @@ A deep learning-powered web application for automated detection of *Plasmodium f
 ├── app.py                # Streamlit application
 ├── model.h5              # Trained Plasmo3Net model
 ├── requirements.txt      # Dependencies
-├── cells/                # Temporary segmented cells
+├── script/               # python scripts
 ├── RBC/                  # Processed RBC images
 └── logo/                 # App assets
 ```
@@ -101,8 +101,8 @@ A deep learning-powered web application for automated detection of *Plasmodium f
 If you use this work, please cite:
 ```bibtex
 @article{owoloye2024plasmo3net,
-  title={Plasmo3Net: High-Accuracy Malaria Detection via Deep Learning},
-  author={Owoloye, Afolabi},
+  title={Plasmo3Net: A Convolutional Neural Network-Based Algorithm for Detecting Malaria Parasites in Thin Blood Smear Images},
+  authors={Owoloye et al.},
   journal={bioRxiv},
   year={2024},
   doi={10.1101/2024.12.12.628235v1}
@@ -110,27 +110,11 @@ If you use this work, please cite:
 ```
 
 ## 🤝 Contribute
-- Report bugs via [Issues](https://github.com/yourusername/malaria-detection-app/issues).
+- Report bugs via [Issues](https://github.com/cegrib/plasmo3net/issues).
 - Fork and submit Pull Requests.
 
 ## 📧 Contact
 Afolabi Owoloye  
-[afolabi.owoloye@email.com](mailto:afolabi.owoloye@email.com)  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+CeGRIB - [@cegrib](https://www.linkedin.com/company/cegrib/?viewAsMember=true)
+[LinkedIn](https://www.linkedin.com/company/cegrib/?viewAsMember=true) | [Twitter](https://x.com/CeGRIB_)
 ```
-
----
-
-### Key Highlights:
-1. **Visual Appeal**: Includes badges, tables, and emojis for readability.
-2. **Technical Clarity**: Clearly explains the CNN architecture and benchmarks.
-3. **Reproducibility**: Step-by-step setup instructions.
-4. **Academic Rigor**: Adds a citation template for your preprint.
-5. **Mobile-Friendly**: Uses concise sections with clear headers.
-
-**Optional Additions**:
-- Add a GIF demo under `## 🔍 Features`.
-- Include a "Funding" section if the Novartis fellowship supported this work.
-
-Let me know if you'd like to emphasize any specific aspect (e.g., clinical validation, scalability)! 😊
-
