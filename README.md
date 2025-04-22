@@ -25,7 +25,7 @@
 <br>
 
 ![pipeline](https://github.com/user-attachments/assets/24f9e6f2-c89d-4bb8-8d93-d952c5285e76)
-###           Experimental workflow for developing the convolutional neural network
+### Figure 1.0: Experimental workflow for developing the convolutional neural network
 
 # 🦟 Plasmo3Net: Malaria Detection Web App
 
