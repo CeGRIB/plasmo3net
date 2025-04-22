@@ -26,11 +26,17 @@
 
 ![pipeline](https://github.com/user-attachments/assets/24f9e6f2-c89d-4bb8-8d93-d952c5285e76)
 ###           Experimental workflow for developing the convolutional neural network
+
 <div style="background-color:#ffcccc; padding:10px; border-radius:5px; border-left: 3px solid red;">
   <strong>Experimental workflow for developing the convolutional neural network.
 </div>
 
+## 🚨 Critical Notice
+<span style="color:red">**Do not use this model for clinical diagnosis without validation.**</span>
 
+<div style="color:red; background-color:#ffebee; padding:10px; border-radius:4px;">
+  🔴 <strong>Experimental:</strong> This app is for research purposes only.
+</div>
 
 # 🦟 Plasmo3Net: Malaria Detection Web App
 
