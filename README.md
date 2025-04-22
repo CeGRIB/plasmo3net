@@ -114,7 +114,6 @@ If you use this work, please cite:
 - Fork and submit Pull Requests.
 
 ## 📧 Contact
-Afolabi Owoloye  
 CeGRIB - [@cegrib](https://www.linkedin.com/company/cegrib/?viewAsMember=true)
 [LinkedIn](https://www.linkedin.com/company/cegrib/?viewAsMember=true) | [Twitter](https://x.com/CeGRIB_)
 ```
