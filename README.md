@@ -1,4 +1,5 @@
 ## Plasmo3Net: A Convolutional Neural Network-Based Algorithm for Detecting Malaria Parasites in Thin Blood Smear Images
+![App Screenshot](logo/header.png)
 ### *[Plasmo3Net web app link](https://plasmo3net.streamlit.app/)*<br>
 ### *[Article](https://www.biorxiv.org/content/10.1101/2024.12.12.628235v1.full)*
 ### Authors
@@ -29,8 +30,6 @@
 # 🦟 Plasmo3Net: Malaria Detection Web App
 
 A deep learning-powered web application for automated detection of *Plasmodium falciparum* in red blood cells (RBCs) using convolutional neural networks (CNNs). Achieves **99.3% accuracy** in classifying infected vs. uninfected cells.
-
-![App Screenshot](logo/header.png)
 
 ## 🔍 Features
 
