@@ -118,3 +118,12 @@ Afolabi Owoloye
 CeGRIB - [@cegrib](https://www.linkedin.com/company/cegrib/?viewAsMember=true)
 [LinkedIn](https://www.linkedin.com/company/cegrib/?viewAsMember=true) | [Twitter](https://x.com/CeGRIB_)
 ```
+
+
+@article{owoloye2024plasmo3net,
+  title={Plasmo3Net: High-Accuracy Malaria Detection via Deep Learning},
+  author={Owoloye, Afolabi},
+  journal={bioRxiv},
+  year={2024},
+  doi={10.1101/2024.12.12.628235v1}
+}
