@@ -29,7 +29,6 @@
 
 
 
-```markdown
 # 🦟 Plasmo3Net: Malaria Detection Web App
 
 A deep learning-powered web application for automated detection of *Plasmodium falciparum* in red blood cells (RBCs) using convolutional neural networks (CNNs). Achieves **99.3% accuracy** in classifying infected vs. uninfected cells.
@@ -61,6 +60,7 @@ A deep learning-powered web application for automated detection of *Plasmodium f
 - Streamlit
 - OpenCV
 
+```markdown
 ### Installation
 1. Clone the repository:
    ```bash
