@@ -26,6 +26,7 @@
 <br>
 
 <img width="880" height="680" alt="image" src="https://github.com/user-attachments/assets/e1fb7d4e-f747-4643-8ac3-fcabeace6feb" />
+
 ### Figure 1.0: Experimental workflow for developing the convolutional neural network
 
 # 🦟 Plasmo3Net: Malaria Detection Web App
