@@ -80,7 +80,7 @@ A deep learning-powered web application for automated detection of *Plasmodium f
 
 4. Access the app at `http://localhost:8501`.
 
-## 🧩 Workflow
+## 🧩 Workflow.
 1. **Upload**: Microscope slide image or segmented RBCs.
 2. **Segment**: Automated RBC extraction (if using slides).
 3. **Classify**: Predicts "Parasitized" or "Uninfected" for each cell.
